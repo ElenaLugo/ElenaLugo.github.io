@@ -1,1 +1,3 @@
-git commit -a -m "message explaining the commit"
+Elena Lugo
+elenalugo.github.io
+Hello World! I'm new to this.
