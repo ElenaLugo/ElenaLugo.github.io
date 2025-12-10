@@ -10,6 +10,4 @@ Welcome to my personal website
 
 
 
-
-![image alt] (https://github.com/ElenaLugo/ElenaLugo.github.io/blob/main/c7b6fe1eb4a68c0f7c58d324facd9017.jpg?raw=true)
-
+![image alt](https://github.com/ElenaLugo/ElenaLugo.github.io/blob/b4e764612a4cc7cf521fc8d3aa58483eff208722/2960f97730342bb71ba6e59e7d7f49c7.jpg)
