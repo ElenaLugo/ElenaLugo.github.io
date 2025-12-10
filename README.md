@@ -1,3 +1,3 @@
 Elena Lugo
 
-Hello World! I'm new to this.
+Welcome to my personal website 
